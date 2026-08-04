@@ -1,0 +1,1 @@
+Version 9: removed the CV sentence, removed the period after the specified 2019 Ph.D. education entry, and changed the green accent color to blue.
