@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g-sumana.github.io/Website-/sitemap.xml
